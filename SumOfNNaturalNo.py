@@ -1,3 +1,4 @@
+print("Hello")
 num1 = int(input("Enter number:"))
 sum =0
 
